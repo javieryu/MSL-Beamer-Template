@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="white-transparent.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="409.01113"
+     inkscape:cy="525.40648"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <circle
+       id="path3713"
+       cx="46.074406"
+       cy="144.87798"
+       style="fill:#ffffff;stroke-width:0.24709438"
+       r="42.5" />
+    <circle
+       id="path3713-7"
+       cx="46.074406"
+       cy="234.87798"
+       style="fill:#ffffff;stroke-width:0.24709438"
+       r="42.5" />
+    <circle
+       id="path3713-5"
+       cx="136.0744"
+       cy="144.87798"
+       style="fill:#ffffff;stroke-width:0.24709438"
+       r="42.5" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot53"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion55"><rect
+           id="rect57"
+           width="568.57141"
+           height="277.14285"
+           x="401.42856"
+           y="403.70078" /></flowRegion><flowPara
+         id="flowPara59"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.01390076px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:-0.02116667px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="85.422569"
+       y="270.3732"
+       id="text63"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="85.422569"
+         y="270.3732"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.01390076px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:-7.68879128px;word-spacing:-0.02116667px;fill:#ffffff;stroke-width:0.26458332">MSL</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+\documentclass[pdf]{beamer}
+
+\usepackage{amssymb,amsmath,amsthm,enumerate}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage[parfill]{parskip}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{amsfonts,amscd}
+\usepackage[]{units}
+\usepackage{listings}
+\usepackage{multicol}
+\usepackage{tcolorbox}
+\usepackage{physics}
+\usepackage{svg}
+\usepackage{algorithm}
+\usepackage{bibentry}
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage[noend]{algpseudocode}
+
+\input{math_ops.sty}
+\input{backup_slides.sty}
+\usetheme{MSL} 
+
+\title{Distributed Optimization for Multi-robot Estimation}
+\date{\today}
+\author[Javier Yu]{\texorpdfstring{\Large Javier Yu \\ \footnotesize \href{javieryu@stanford.edu}{javieryu@stanford.edu}}{}}
+\institute{Department of Aeronautics and Astronautics \\ Stanford University}
+
+\nobibliography*
+
+\begin{document}
+
+\begin{noheadline}
+\begin{frame} \maketitle \end{frame}
+\end{noheadline}
+
+\begin{frame}{A Test Slide}
+
+\begin{block}{A normal block}
+Some kind of blocked text.
+\end{block}
+
+\begin{exampleblock}{An example block}
+Some example text.
+\end{exampleblock}
+
+\begin{alertblock}{An alert block}
+Some alert text.
+\end{alertblock}
+
+An in-place citation: \\
+\bibentry{barfoot2017}
+\end{frame}
+
+\begin{frame}{Bibliography}
+\bibliographystyle{naturemag}
+\bibliography{biblio.bib}
+\end{frame} 
+
+\section{A Test Section}
+
+\beginbackup
+\begin{frame}{A Backup Slide}
+Just to test the page count.
+\end{frame}
+\backupend
+
+\end{document}
